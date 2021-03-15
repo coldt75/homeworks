@@ -65,6 +65,9 @@
                                 <rect key="frame" x="293" y="375" width="101" height="27"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
                                 <state key="normal" title="Forgot password?"/>
+                                <connections>
+                                    <action selector="forgotPasswordButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="xN0-Ka-PkT"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ovD-ki-r7O">
                                 <rect key="frame" x="20" y="437" width="374" height="50"/>
@@ -76,6 +79,9 @@
                                 <state key="normal" title="Log In">
                                     <color key="titleColor" red="0.51755976680000004" green="0.50991648440000004" blue="0.5019599199" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </state>
+                                <connections>
+                                    <action selector="logInButtonClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="uV8-S3-F4Y"/>
+                                </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icons8-facebook-50" translatesAutoresizingMaskIntoConstraints="NO" id="a7m-0S-8of">
                                 <rect key="frame" x="141" y="614.5" width="25" height="25"/>
@@ -93,11 +99,17 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EmT-Ih-9Rr">
                                 <rect key="frame" x="174" y="612" width="125" height="30"/>
                                 <state key="normal" title="Continue as Shrek"/>
+                                <connections>
+                                    <action selector="continueAsButon:" destination="BYZ-38-t0r" eventType="touchUpInside" id="DI7-wS-dyJ"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="G9y-y3-2Nb">
                                 <rect key="frame" x="247" y="844.5" width="33" height="22"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="8"/>
                                 <state key="normal" title="Sign up."/>
+                                <connections>
+                                    <action selector="signUpButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ff7-h4-qn5"/>
+                                </connections>
                             </button>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Eyr-VA-X60">
                                 <rect key="frame" x="0.0" y="828" width="414" height="1"/>
@@ -109,6 +121,9 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GuE-xG-wTd">
                                 <rect key="frame" x="346" y="334" width="30" height="22"/>
                                 <state key="normal" image="eye.circle" catalog="system"/>
+                                <connections>
+                                    <action selector="showPasswordButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="eiM-9F-TFa"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -156,8 +171,8 @@
                     </view>
                     <connections>
                         <outlet property="Email" destination="McU-Rz-LMB" id="gzx-Tg-F4d"/>
-                        <outlet property="Password" destination="rJV-Ba-H2a" id="x0d-gl-iE7"/>
                         <outlet property="login" destination="ovD-ki-r7O" id="J8p-1u-SK1"/>
+                        <outlet property="passwordTextField" destination="rJV-Ba-H2a" id="MwI-de-Dg3"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
