@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D23EB680-69D2-4CDF-B1DB-38F3A7F97A22"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "785486EC-F3BF-4106-B0B4-2F5050F42E1D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "homework2.0/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "785486EC-F3BF-4106-B0B4-2F5050F42E1D - 2aa223f5ab37a612"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "homework2_0.ViewController.(Email in _F743AE41055DD91F6E55C36B7D06A814).getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "homework2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timyrtretiak/Desktop/trainnig/homework2.0/homework2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "785486EC-F3BF-4106-B0B4-2F5050F42E1D - 2aa223f5ab37a612"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "homework2_0.ViewController.(Email in _F743AE41055DD91F6E55C36B7D06A814).setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "homework2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timyrtretiak/Desktop/trainnig/homework2.0/homework2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "785486EC-F3BF-4106-B0B4-2F5050F42E1D - 2aa223f5ab37a881"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "homework2_0.ViewController.(Email in _F743AE41055DD91F6E55C36B7D06A814).modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "homework2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timyrtretiak/Desktop/trainnig/homework2.0/homework2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "785486EC-F3BF-4106-B0B4-2F5050F42E1D - 8fc097d850a28ec1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "homework2_0.ViewController.(Email in _F743AE41055DD91F6E55C36B7D06A814).modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "homework2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timyrtretiak/Desktop/trainnig/homework2.0/homework2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "785486EC-F3BF-4106-B0B4-2F5050F42E1D - d62fcca4895e71e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "homework2_0.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; homework2_0.ViewController"
+                  moduleName = "homework2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timyrtretiak/Desktop/trainnig/homework2.0/homework2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "785486EC-F3BF-4106-B0B4-2F5050F42E1D - 19c1e4894dcd3bb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "homework2_0.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;homework2_0.ViewController&gt;"
+                  moduleName = "homework2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timyrtretiak/Desktop/trainnig/homework2.0/homework2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "102">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDDFDD5F-A8ED-4E2C-8892-C60B19538F3B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "homework2.0/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FDDFDD5F-A8ED-4E2C-8892-C60B19538F3B - 2aa223f5ab37a612"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "homework2_0.ViewController.(Email in _F743AE41055DD91F6E55C36B7D06A814).getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "homework2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timyrtretiak/Desktop/trainnig/homework2.0/homework2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "FDDFDD5F-A8ED-4E2C-8892-C60B19538F3B - 2aa223f5ab37a612"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "homework2_0.ViewController.(Email in _F743AE41055DD91F6E55C36B7D06A814).setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "homework2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timyrtretiak/Desktop/trainnig/homework2.0/homework2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "FDDFDD5F-A8ED-4E2C-8892-C60B19538F3B - 2aa223f5ab37a881"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "homework2_0.ViewController.(Email in _F743AE41055DD91F6E55C36B7D06A814).modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "homework2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timyrtretiak/Desktop/trainnig/homework2.0/homework2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "FDDFDD5F-A8ED-4E2C-8892-C60B19538F3B - 8fc097d850a28ec1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "homework2_0.ViewController.(Email in _F743AE41055DD91F6E55C36B7D06A814).modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "homework2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timyrtretiak/Desktop/trainnig/homework2.0/homework2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "FDDFDD5F-A8ED-4E2C-8892-C60B19538F3B - d62fcca4895e71e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "homework2_0.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; homework2_0.ViewController"
+                  moduleName = "homework2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timyrtretiak/Desktop/trainnig/homework2.0/homework2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "FDDFDD5F-A8ED-4E2C-8892-C60B19538F3B - 19c1e4894dcd3bb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "homework2_0.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;homework2_0.ViewController&gt;"
+                  moduleName = "homework2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timyrtretiak/Desktop/trainnig/homework2.0/homework2.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "102">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BCAC2FD-5418-42F6-BA51-CA86B4174E9D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "homework2.0/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
